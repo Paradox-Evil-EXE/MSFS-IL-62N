@@ -31,7 +31,7 @@ A lightweight, community-driven rebuild of the legendary Soviet IL‑62 as a **n
 ---
 
 ## **⚠️ Heads up**:
-This is a zero-budget project. I’m broke, you’re broke (probably), the IL-62 is broke — we’re all here just to make something cool happen. No payments, just credit and community, and the sight of the great bird in the air again.
+This is a zero-budget project. I’m broke, you’re broke (probably), the IL-62 is broke(n) — we’re all here just to make something cool happen. No payments, just credit and community, and the sight of the great bird in the air again.
 
 
 ---
