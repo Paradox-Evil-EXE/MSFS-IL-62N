@@ -44,6 +44,7 @@ Looking for contributors who can help with:
 - Replacing legacy FSX behavior with native MSFS systems
 - If you want to try editing or flying it yourself, [download the current version here via The mirror](https://drive.google.com/file/d/1XArml0h0QlA1kpqCrtPvFI85L_47ZvMp/view?usp=sharing).  
   - This link will be kept updated to match the fixes and problems listed in this README.
+  - [Original file incase something goes wrong](https://drive.google.com/file/d/1XArml0h0QlA1kpqCrtPvFI85L_47ZvMp/view?usp=sharing)
 
 
 Join our [Discord](https://discord.gg/x52mwgyCBU) to get involved.  
