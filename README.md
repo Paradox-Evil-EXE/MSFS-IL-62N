@@ -14,6 +14,9 @@ A lightweight, community-driven rebuild of the legendary Soviet IL‑62 as a **n
 - Reversers deploy *automatically* at rotate and/or other moments on the ground (yes, really, not all the times either, worth checking out)
 - Engine randomly goes to idle on runway sometimes
 - Flaps sometimes retract without command during takeoff roll sometimes
+## ✅ Fixed
+- Barely any lift power, struggles to takeoff
+- increased lift_scalar to 1.200 for [FLAPS.0], and increased thrust_scalar to 1.250 for [JET_ENGINE]
 
 ---
 
