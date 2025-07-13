@@ -2,7 +2,7 @@
 
 A lightweight, community-driven rebuild of the legendary Soviet IL‑62 as a **native MSFS aircraft**. Based on a legacy FSX import, the goal is to restore flight stability, build a working cockpit, and keep the flying fridge alive — without overcomplicating it.
 
-> Rebuilding the fridge that fought physics and history.
+> Bringing the infamous bird back from the dead, in a modern flight simulator
 
 ---
 
