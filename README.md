@@ -35,7 +35,7 @@ Looking for contributors who can help with:
 - Gauge/instrument animation
 - Replacing legacy FSX behavior with native MSFS systems
 
-Join our [Discord](#https://discord.gg/x52mwgyCBU) to get involved.  
+Join our [Discord](https://discord.gg/x52mwgyCBU) to get involved.  
 Contribute via GitHub pull requests or submit issues directly. Or by contacting me to get added to this repository
 
 ---
