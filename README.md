@@ -13,7 +13,7 @@ A lightweight, community-driven rebuild of the legendary Soviet IL‑62 as a **n
 - No native flight systems or WASM logic
 - Reversers deploy *automatically* at rotate and/or other moments on the ground (yes, really, not all the times either, worth checking out)
 - Engine randomly goes to idle on runway sometimes
-- Flaps sometimes retract without command during takeoff roll sometimes
+- Flaps sometimes retract without command during takeoff roll
 ## ✅ Fixed
 - Barely any lift power, struggles to takeoff  
   - Increased `lift_scalar` to `1.200` for `[FLAPS.0]`  
