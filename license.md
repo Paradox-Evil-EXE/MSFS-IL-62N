@@ -21,10 +21,9 @@ This project is a **non-commercial, community-led modification** of the original
 
 This project contains:
 - Legacy content from Project Tupolev (model, textures, sounds, animations)
-- New content by EvilPlayZYT2036 and contributors (MSFS compatibility fixes, custom systems, instruments, updates)
+- New content by Paradox Evil.EXE and contributors (MSFS compatibility fixes, custom systems, instruments, updates)
 
-Original authors: Project Tupolev (http://www.protu-154.com/ - now offline)
-Email on file (inactive): tushka154@online.de
+Original authors: Project Tupolev (http://www.protu-154.com/ - now offline), Email on file (inactive): tushka154@online.de
 
 This license is intended to respect and preserve the freeware intentions of the original creators.
 If any original author wishes to request removal or changes, please contact the project maintainer via GitHub or [Discord (server)](https://discord.gg/x52mwgyCBU) or DM: `evil.exe_main` on Discord.
