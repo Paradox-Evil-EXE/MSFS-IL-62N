@@ -54,7 +54,7 @@ Contribute via GitHub pull requests or submit issues directly. Or by contacting 
 
 ## 📦 Licensing
 
-This project is currently in a **pre-license phase**. All content is intended for educational and non-commercial use only. If you are the original creator of any legacy assets used here, please reach out via GitHub or Discord to confirm licensing or request removal.
+Custom Freeware Derivative License (Attribution, Non-Commercial): This project is a **non-commercial, community-led modification** of the original IL-62 aircraft package created by **Project Tupolev** for FS2004/FSX
 
 ---
 
