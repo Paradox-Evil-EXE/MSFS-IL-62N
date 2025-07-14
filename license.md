@@ -1,5 +1,5 @@
 IL-62N for Microsoft Flight Simulator (MSFS 2020/2024)
-License: Custom Freeware Derivative License (Attribution, Non-Commercial)\n
+License: Custom Freeware Derivative License (Attribution, Non-Commercial)
 
 This project is a **non-commercial, community-led modification** of the original IL-62 aircraft package created by **Project Tupolev** for FS2004/FSX.
 
