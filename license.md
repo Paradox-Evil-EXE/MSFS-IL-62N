@@ -1,20 +1,32 @@
-IL-62N for Microsoft Flight Simulator  
-License: Custom Freeware (Non-Commercial, Attribution, No Derivatives from Project Tupolev Content)
+IL-62N for Microsoft Flight Simulator (MSFS 2020/2024)
+License: Custom Freeware Derivative License (Attribution, Non-Commercial)
 
-This project is a community-led rebuild of the Ilyushin IL-62 aircraft for Microsoft Flight Simulator (MSFS 2020/2024).  
-It includes:
-- New native MSFS code and systems
-- Reverse-engineered and remade content
-- Legacy elements originally inspired by or partially derived from the FSX/FS2004 version created by Project Tupolev.
+This project is a **non-commercial, community-led modification** of the original IL-62 aircraft package created by **Project Tupolev** for FS2004/FSX.
 
-All legacy assets remain © their original creators and are reused under their original freeware distribution clause, which prohibits any commercial use or redistribution for profit.
+## You Are Allowed To:
+- Use this aircraft freely in Microsoft Flight Simulator
+- Distribute it for free
+- Create your own modifications or updates
+- Collaborate and contribute to this project
 
-This version:
-- Is provided 100% FREE to the community
-- Contains **no paywalled content, monetization, or paid access of any kind**
-- Gives full credit to Project Tupolev for their foundational work
-- Does **not claim ownership** over any reused legacy content
+## You Must:
+- **Credit Project Tupolev** for the original model, UV mapping, sounds, and base animations
+- **Clearly mark** this as a derivative or modified version
+- Keep all distribution completely **non-commercial**
 
-If you are the original content author and wish to request removal or attribution changes, please contact the project maintainer via our [Discord](https://discord.gg/x52mwgyCBU) or DM the owner (discord: evil.exe_main).
+## You May Not:
+- Sell, monetize, or include this package in payware products
+- Distribute without proper credit to the original authors
+- Claim ownership over unmodified original assets
 
-DO NOT SELL, REPUBLISH, OR MONETIZE THIS PACKAGE IN ANY FORM.
+This project contains:
+- Legacy content from Project Tupolev (model, textures, sounds, animations)
+- New content by EvilPlayZYT2036 and contributors (MSFS compatibility fixes, custom systems, instruments, updates)
+
+Original authors: Project Tupolev (http://www.protu-154.com/ - now offline)
+Email on file (inactive): tushka154@online.de
+
+This license is intended to respect and preserve the freeware intentions of the original creators.
+If any original author wishes to request removal or changes, please contact the project maintainer via GitHub or [Discord (server)](https://discord.gg/x52mwgyCBU) (DM): evil.exe_main.
+
+This package is provided AS-IS, for educational and entertainment purposes only.
